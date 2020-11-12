@@ -8,6 +8,7 @@ cap2 = cv2.VideoCapture("http://192.168.18.70:8081")
 cap3 = cv2.VideoCapture("http://192.168.18.3:8080/video")
 cap4 = cv2.VideoCapture("http://192.168.18.5:8081")
 # checking if all caps are open
+# testing to see github commits
 frame1_array=[]
 frame2_array=[]
 frame3_array=[]
